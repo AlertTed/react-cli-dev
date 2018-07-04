@@ -1,6 +1,6 @@
 {
   "name": "react-cli-dev",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cli-for-react",
   "main": "index.js",
   "bin": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/sangzhenlin/react-cli-dev.git"
   },
-  "author": "sangzhenlin",
+  "author": "jackeylove",
   "keywords": [
     "cli",
     "react",
