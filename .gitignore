@@ -1,0 +1,9 @@
+node_modules/
+.idea/
+.DS_Store
+*.log
+yarn.lock
+package-lock.json
+*.bak
+proxyServer.js
+# Created by .ignore support plugin (hsz.mobi)

@@ -1,0 +1,30 @@
+{
+  "name": "react-cli-dev",
+  "version": "1.0.0",
+  "description": "cli-for-react",
+  "main": "index.js",
+  "bin": {
+    "react-cli-sang": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sangzhenlin/react-cli-dev.git"
+  },
+  "author": "sangzhenlin",
+  "keywords": [
+    "cli",
+    "react",
+    "react-cli",
+    "cli-for-react",
+    "project"
+  ],
+  "license": "ISC",
+
+  "bugs": {
+    "url": "https://github.com/sangzhenlin/react-cli-dev/issues"
+  },
+  "homepage": "https://github.com/sangzhenlin/react-cli-dev#readme",
+  "dependencies": {
+    "user": "0.0.0"
+  }
+}
