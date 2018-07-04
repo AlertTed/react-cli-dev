@@ -1,4 +1,4 @@
-# react-cli-dev
-npm install -g react-cli-dev
+# react-cli-test
+npm install -g react-cli-test
 
 react-cli [projectName]
